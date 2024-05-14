@@ -1,0 +1,3 @@
+export default environment = {
+    apiUrl: 'http://localhost:4000/tickets'
+};
